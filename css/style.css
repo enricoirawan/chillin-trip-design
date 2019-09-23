@@ -1,3 +1,48 @@
 body {
     font-family: 'Montserrat', sans-serif;
 }
+
+.navbar-nav {
+    margin-left: 45%;
+    font-weight: 600;
+}
+
+.navbar-nav a {
+    margin: 18px;
+}
+
+.hero {
+    margin-top: 90px;
+}
+
+.hero .text-award {
+    color: #FABA0D;
+    font-weight: 600;
+}
+
+.hero .text-hero {
+    font-family: Georgia, serif;
+    font-weight: 600;
+}
+
+.hero .text-description {
+    margin-top: 50px;
+}
+
+.text-option p {
+    margin-right: 35px;
+    font-size: 12px;
+    margin-bottom: 70px;
+}
+
+.btn-hero {
+    width: 210px;
+    height: 50px;
+    font-weight: 400;
+}
+
+.hero-img {
+    transform: translateY(-50px);
+    width: 500px;
+    height: 500px;
+}
